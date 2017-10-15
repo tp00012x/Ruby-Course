@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da18a61d-d836-4f9c-93dc-ef769942af68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getting_started/conditional_assignment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getting_started/range.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/getting_started/parallel_variable_assignment.rb" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arrays/array_of_strings.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arrays/each_challenge.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arrays/map_collect.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getting_started/statement_modifiers.rb" afterPath="$PROJECT_DIR$/getting_started/statement_modifiers.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,29 +16,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Ruby@runner.coverage" NAME="runner Coverage Results" MODIFIED="1507759848473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@Arrays_Iterators.coverage" NAME="Arrays_Iterators Coverage Results" MODIFIED="1506810096698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@hellowordstring.coverage" NAME="hellowordstring Coverage Results" MODIFIED="1506796838467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1507758319525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@user.coverage" NAME="user Coverage Results" MODIFIED="1507757777567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@methods.coverage" NAME="methods Coverage Results" MODIFIED="1507835278890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@strings.coverage" NAME="strings Coverage Results" MODIFIED="1507834139959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@range.coverage" NAME="range Coverage Results" MODIFIED="1507849760208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@IRB_console__Ruby.coverage" NAME="IRB console: Ruby Coverage Results" MODIFIED="1506806691097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@ternary_operator.coverage" NAME="ternary_operator Coverage Results" MODIFIED="1507835300962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@statement_modifiers.coverage" NAME="statement_modifiers Coverage Results" MODIFIED="1507848242920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@conditional_assignment.coverage" NAME="conditional_assignment Coverage Results" MODIFIED="1507848631682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@map_collect.coverage" NAME="map_collect Coverage Results" MODIFIED="1508030220494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arrays" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@ruby_style_guide.coverage" NAME="ruby_style_guide Coverage Results" MODIFIED="1507691383653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@helloworldmethod.coverage" NAME="helloworldmethod Coverage Results" MODIFIED="1506799780913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@homework_project.coverage" NAME="homework_project Coverage Results" MODIFIED="1507695031478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@runner.coverage" NAME="runner Coverage Results" MODIFIED="1507759848473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming/OOP_project" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@Arrays_Iterators.coverage" NAME="Arrays_Iterators Coverage Results" MODIFIED="1506810096698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@each_challenge.coverage" NAME="each_challenge Coverage Results" MODIFIED="1508027435719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arrays" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@hello.coverage" NAME="hello Coverage Results" MODIFIED="1506796393821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@hellowordstring.coverage" NAME="hellowordstring Coverage Results" MODIFIED="1506796838467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1507758319525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@Hash.coverage" NAME="Hash Coverage Results" MODIFIED="1506836007055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@user.coverage" NAME="user Coverage Results" MODIFIED="1507757777567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object_Oriented_Programming" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@intro_to_block.coverage" NAME="intro_to_block Coverage Results" MODIFIED="1507782659250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@playground.coverage" NAME="playground Coverage Results" MODIFIED="1506801712968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@parallel_variable_assignment.coverage" NAME="parallel_variable_assignment Coverage Results" MODIFIED="1507778148576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="RubyMine2017.2/coverage/Ruby@analyzer.coverage" NAME="analyzer Coverage Results" MODIFIED="1506803890719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@methods.coverage" NAME="methods Coverage Results" MODIFIED="1507835278890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@strings.coverage" NAME="strings Coverage Results" MODIFIED="1507834139959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@range.coverage" NAME="range Coverage Results" MODIFIED="1507849760208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@puts.coverage" NAME="puts_print_p Coverage Results" MODIFIED="1507774138937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getting_started" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@IRB_console__Ruby.coverage" NAME="IRB console: Ruby Coverage Results" MODIFIED="1507849868891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@IRB_console__Ruby.coverage" NAME="IRB console: Ruby Coverage Results" MODIFIED="1507850160336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@shorthand_syntax.coverage" NAME="shorthand_syntax Coverage Results" MODIFIED="1507850175796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arrays" MODULE_NAME="Ruby" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -52,7 +55,18 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="map_collect.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arrays/map_collect.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,6 +114,10 @@
         <option value="$PROJECT_DIR$/getting_started/statement_modifiers.rb" />
         <option value="$PROJECT_DIR$/getting_started/conditional_assignment.rb" />
         <option value="$PROJECT_DIR$/getting_started/range.rb" />
+        <option value="$PROJECT_DIR$/arrays/shorthand_syntax.rb" />
+        <option value="$PROJECT_DIR$/arrays/array_of_strings.rb" />
+        <option value="$PROJECT_DIR$/arrays/each_challenge.rb" />
+        <option value="$PROJECT_DIR$/arrays/map_collect.rb" />
       </list>
     </option>
   </component>
@@ -181,6 +199,11 @@
             <path>
               <item name="Ruby" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ruby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
               <item name="getting_started" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -213,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="IRB console.IRB console: Ruby">
+  <component name="RunManager" selected="Ruby.map_collect">
     <configuration name="IRB console: Ruby" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
       <module name="Ruby" />
       <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -233,10 +256,10 @@
       <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--prompt simple" />
       <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
     </configuration>
-    <configuration name="conditional_assignment" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="array_of_strings" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/getting_started" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/arrays" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -248,7 +271,43 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/getting_started/conditional_assignment.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/arrays/array_of_strings.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="each_challenge" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/arrays" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/arrays/each_challenge.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="map_collect" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/arrays" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/arrays/map_collect.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <configuration name="range" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
@@ -269,56 +328,20 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/getting_started/range.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="statement_modifiers" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Ruby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/getting_started" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/getting_started/statement_modifiers.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-    </configuration>
-    <configuration name="ternary_operator" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Ruby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/getting_started" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/getting_started/ternary_operator.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="IRB console.IRB console: Ruby" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.ternary_operator" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.statement_modifiers" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.conditional_assignment" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.range" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.range" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.array_of_strings" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.each_challenge" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.map_collect" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="IRB console.IRB console: Ruby" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.range" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.conditional_assignment" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.statement_modifiers" />
-        <item index="4" class="java.lang.String" itemvalue="IRB console.IRB console: Ruby" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.map_collect" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.each_challenge" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.array_of_strings" />
+        <item index="3" class="java.lang.String" itemvalue="IRB console.IRB console: Ruby" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.range" />
       </list>
     </recent_temporary>
   </component>
@@ -341,25 +364,26 @@
       <workItem from="1506835998810" duration="132000" />
       <workItem from="1506987284321" duration="623000" />
       <workItem from="1507690917840" duration="7713000" />
-      <workItem from="1507770290276" duration="8478000" />
+      <workItem from="1507770290276" duration="11603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26182000" />
+    <option name="totallyTimeSpent" value="29307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1199" y="-1417" width="901" height="1367" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28172293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28172293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.358186" sideWeight="0.5040745" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289777" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32052267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32052267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.358186" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.358186" sideWeight="0.4959255" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -485,6 +509,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrays/array_of_strings.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrays/each_challenge.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrays/map_collect.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
