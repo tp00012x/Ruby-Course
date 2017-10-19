@@ -5,4 +5,3 @@ squares2 = numbers.collect { |number| number**2 }
 
 p squares1
 p squares2
-
