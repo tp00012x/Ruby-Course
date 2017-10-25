@@ -1,7 +1,6 @@
 class Gadget
 
-  attr_writer :password
-  attr_reader :production_number
+  attr_reader :production_number, :password
   attr_accessor :username
 
   def initialize(username, password)
@@ -16,6 +15,10 @@ class Gadget
     has the ID #{self.object_id}."
   end
 
+  def password=(new_password)
+    @password = new_password if validate_password(new_password)
+  end
+
   private
 
   def generate_production_number
@@ -27,9 +30,14 @@ class Gadget
     "#{start_digits}-#{middle_digits}-#{end_digits}"
   end
 
+  def validate_password(new_password)
+    new_password.is_a?(String) && new_password.length >= 6 && new_password =~ /\d/
+  end
+
 end
 
-#Private methods - To make a method private just add the keyword 'Private' before the methods
+phone = Gadget.new('rubyfan102', 'programming123')
+puts phone.password
 
-phone = Gadget.new('user', 'password')
-p phone.production_number
+phone.password = 'computer123'
+puts phone.password
