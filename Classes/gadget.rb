@@ -65,4 +65,5 @@ g.install_app(:Twitter)
 p g.apps
 
 g.delete_app(:Twitter)
+
 p g.apps
